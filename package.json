@@ -17,10 +17,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node \"./My Project/server.js\"",
-    "dev": "nodemon \"./My Project/server.js\"",
-    "dev1": "nodemon \"./My Project/api.js\"",
-    "dev2": "nodemon \"./My Project/raw-server.js\"",
-    "dev3": "nodemon \"./My Project/Week 2 api.js\""
+    "dev": "nodemon \"./Week 2 api.js\""
   },
   "dependencies": {
     "dotenv": "^17.3.1",
